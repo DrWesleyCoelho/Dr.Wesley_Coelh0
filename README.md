@@ -1,5 +1,4 @@
- ### **📜 README.md DO PBL ASSISTENT**  
-*(Cole este conteúdo exato no arquivo `README.md` do repositório)*  
+ ### **📜 README.md DO PBL ASSISTENT**   
 
 ```markdown
 # PBL ASSISTENT  
